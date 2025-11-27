@@ -1,6 +1,3 @@
-# BlinkTrack-CS449
-Hands-free interaction system leveraging gaze tracking and blink detection. CS449 – Human–Computer Interaction Project.
-
 
 # BlinkTrack  
 Hands-free interaction system enabling cursor control and selection through real-time gaze tracking and blink detection.  
