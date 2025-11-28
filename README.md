@@ -12,6 +12,5 @@ The system tracks gaze direction to move the cursor and detects intentional eye 
 - Gaze landmark extraction via MediaPipe FaceMesh
 - Basic blink detection using Eye Aspect Ratio (EAR)
 - Initial cursor motion experiments via pyautogui
-- Study Design Protocol (docs/study_design_protocol.md)
 
 ## Directory Structure
